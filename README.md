@@ -10,14 +10,14 @@
 
 <h2>👩🏽‍💻 SQL Projects:</h2>
 
- <b>SC Counties Population</b> [SQL](https://github.com/Kerstian/SCCountiesPopulation_SQL) A database that stores data pertaining to county population in SC from 2020-2023
+* <b>SC Counties Population</b> [SQL](https://github.com/Kerstian/SCCountiesPopulation_SQL) A database that stores data pertaining to county population in South Carolina from 2020-2023
 
- <b>Movie Recommendations from Netflix</b> A movie database that stores information about movies, actors, directors, and user ratings
+* <b>Movie Recommendations </b> A movie database that stores information about movies, actors, directors, and user ratings from Netflix
  
 <h2>📈📊 Data Visualization:</h2>
 
 - <b> SC Counties Population</b> - To support the SQL Project here is a dashboard to project visual for the information provided.
-- <b> New  
+- <b> Movie Recommendations </b> -   
 
 <h2> 🤳 Connect with me:</h2>
 
