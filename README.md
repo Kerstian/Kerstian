@@ -10,18 +10,14 @@
 
 <h2>👩🏽‍💻 SQL Projects:</h2>
 
- <b>SC Counties Population</b> [SQL](https://github.com/Kerstian/SCCountiesPopulation_SQL) - In this project, I used data provided by the United State Census Bureau to analyze the population for the population of the counties throughout South Carolina from 2020 until 2023. I created a database in PostgreSQL and answered the following questions:
+ <b>SC Counties Population</b> [SQL](https://github.com/Kerstian/SCCountiesPopulation_SQL) A database that stores data pertaining to county population in SC from 2020-2023
 
-    1. What was the total population of South Carolina in in 2020, 2021, 2022, and 2023?
-    2. What was the average population per county in South Carolina in 2020, 2021, 2022, and 2023?
-    3. Which 3 counties experienced the most growth over the 4 year period?
-    4. Which 3 counties experience the least growth over the 4 year period?
-    5. What are the top 5 most populous counties in South Carolina?
-    6. What is the total population by region? 
-   
+ <b>Movie Recommendations from Netflix</b> A movie database that stores information about movies, actors, directors, and user ratings
+ 
 <h2>📈📊 Data Visualization:</h2>
 
-- <b> SC Counties Population</b> - To support the SQL Project here is a dashboard to project visual for the information provided. 
+- <b> SC Counties Population</b> - To support the SQL Project here is a dashboard to project visual for the information provided.
+- <b> New  
 
 <h2> 🤳 Connect with me:</h2>
 
