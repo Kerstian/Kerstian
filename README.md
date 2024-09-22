@@ -10,7 +10,7 @@
 
 <h2>👩🏽‍💻 SQL Projects:</h2>
 
- <b>SC Counties Population</b> [SQL](https://github.com/joshmadakor1/Algorithms-Practice) - In this project, I used data provided by the United State Census Bureau to analyze the population for the population of the counties throughout South Carolina from 2020 until 2023. I created a database in PostgreSQL and answered the following questions:
+ <b>SC Counties Population</b> [SQL](https://github.com/Kerstian/SCCountiesPopulation_SQL) - In this project, I used data provided by the United State Census Bureau to analyze the population for the population of the counties throughout South Carolina from 2020 until 2023. I created a database in PostgreSQL and answered the following questions:
 
     1. What was the total population of South Carolina in in 2020, 2021, 2022, and 2023?
     2. What was the average population per county in South Carolina in 2020, 2021, 2022, and 2023?
